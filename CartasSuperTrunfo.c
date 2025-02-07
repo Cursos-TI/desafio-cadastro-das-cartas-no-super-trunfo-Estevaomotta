@@ -28,7 +28,7 @@ int main() {
     printf("\nDados da Carta:\n");
     printf("Código da cidade: %s\n", cod);
     printf("Nome da cidade: %s\n", nome);
-    printf("População da cidade: %d\n", populacao);
+    printf("População da cidade: %.2f\n", populacao);
     printf("Área da cidade: %d\n", area);
     printf("PIB da cidade: %d\n", PIB);
     printf("Número de pontos turísticos da cidade: %d\n", PontTuristicos);
