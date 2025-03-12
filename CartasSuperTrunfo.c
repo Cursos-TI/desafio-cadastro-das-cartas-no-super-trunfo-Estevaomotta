@@ -25,7 +25,7 @@ int main() {
     scanf("%d", &PontTuristicos);
 
     // Exibição dos Dados das Cartas
-    printf("\nDados da Carta:\n");
+    printf("Dados da Carta:\n");
     printf("Código da cidade: %s\n", cod);
     printf("Nome da cidade: %s\n", nome);
     printf("População da cidade: %.2f\n", populacao);
